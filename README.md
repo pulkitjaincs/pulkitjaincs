@@ -35,7 +35,7 @@ CS undergrad @ JECRC University (2023–27). I build full-stack apps with the ME
 <tr>
 <td width="50%">
 
-**[KaamSetu](https://github.com/pulkitjaincs/KaamSetu)** — Job Platform
+**[SkillAnchor](https://github.com/pulkitjaincs/SkillAnchor)** — Job Platform
 
 `React` `Node.js` `MongoDB` `AWS S3` `JWT`
 

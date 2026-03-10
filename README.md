@@ -16,7 +16,7 @@
 CS undergrad @ JECRC University (2023–27). I build full-stack apps with the MERN stack, solve algorithmic problems competitively, and care about writing clean, scalable code.
 
 - 🔭 Building **[SkillAnchor](https://github.com/pulkitjaincs/SkillAnchor)** — a job marketplace for blue-collar workers
-- 🧠 **680+** problems on LeetCode · **Specialist** on Codeforces (1533)
+- 🧠 **700+** problems on LeetCode · **Specialist** on Codeforces (1533)
 - 🏆 **SIH 2024** National Finalist · **DevCrest.ju** Community Lead
 
 ---

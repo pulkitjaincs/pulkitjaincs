@@ -76,7 +76,7 @@ Optimized DSA prep platform with automated SM-2 spaced-repetition scheduling and
 ┌───────────────────────────────────────────────────────────────────────────────────┐
 │ Architecture : Turborepo Monorepo with 6-Layer Express Backend                    │
 │ Security     : 8-Stage Security Pipeline (Helmet CSP, CSRF, Rate Limiting)        │
-│ Memory Engine: SM-2 Spaced-Repetition Algorithm with 3 practice review queues    │
+│ Memory Engine: SM-2 Spaced-Repetition Algorithm with 3 practice review queues     │
 │ Performance  : Redis Cache-Aside + Tag Invalidation + 13 Virtualized React Pages  │
 │ Community    : Public Profile Heatmaps, Study Groups & Leaderboards               │
 └───────────────────────────────────────────────────────────────────────────────────┘
@@ -93,9 +93,9 @@ Full-stack job portal connecting hourly workforce with verified employers via au
 ```
 ┌───────────────────────────────────────────────────────────────────────────────────┐
 │ Architecture : Next.js 16 App Router + Express 5 Layered Backend Architecture     │
-│ Middleware   : 10-Stage Pipeline + RBAC (Worker / Employer Roles)                   │
-│ Async Queue  : BullMQ Workers for hire transactions + MongoDB Replica Set          │
-│ Quality      : 26 Vitest/Supertest Suites (>80% coverage on in-memory DB)        │
+│ Middleware   : 10-Stage Pipeline + RBAC (Worker / Employer Roles)                 │
+│ Async Queue  : BullMQ Workers for hire transactions + MongoDB Replica Set         │
+│ Quality      : 26 Vitest/Supertest Suites (>80% coverage on in-memory DB)         │
 └───────────────────────────────────────────────────────────────────────────────────┘
 ```
 `Next.js 16` `TypeScript` `MongoDB` `Redis` `AWS S3` `BullMQ` `Docker`
@@ -134,17 +134,13 @@ Full-stack hotel booking platform featuring custom glassmorphism design system, 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pulkitjaincs&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pulkitjaincs&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=pulkitjaincs&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pulkitjaincs&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pulkitjaincs&theme=default" />
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkitjaincs&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" />
-  </picture>
+  <a href="https://github.com/pulkitjaincs">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pulkitjaincs&theme=github-dark&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pulkitjaincs&theme=minimal&hide_border=true" />
+      <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pulkitjaincs&theme=github-dark&hide_border=true" alt="Activity Graph" />
+    </picture>
+  </a>
 </div>
 
 <br/>
